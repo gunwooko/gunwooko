@@ -2,6 +2,9 @@
 
 [![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
 
+### Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunwoo.dev@gmail.com)](mailto:gunwoo.dev@gmail.com) 
+[![Velog Badge](https://img.shields.io/badge/Velog-3ac997?style=flat-square&logoColor=white&link=https://velog.io/@gunwooko)](https://velog.io/@gunwooko)
 
 <!--
 **gunwooko/gunwooko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
