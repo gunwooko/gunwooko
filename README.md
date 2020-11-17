@@ -2,6 +2,7 @@
 I am a Frontend Developer and I love React and TypeScript.
 
 ### Languages and Tools
+... soon
 
 
 [![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
