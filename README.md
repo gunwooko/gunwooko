@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Gunwoo 👋
 
 [![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
 
