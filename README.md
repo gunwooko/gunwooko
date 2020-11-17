@@ -1,4 +1,8 @@
-### Hi there, I'm Gunwoo 👋
+### 👋 Hi there, I am Gunwoo 
+I am a Frontend Developer and I love React and TypeScript.
+
+### Languages and Tools
+
 
 [![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
 
