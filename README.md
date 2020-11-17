@@ -2,10 +2,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gunwooko&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gunwooko&repo=convoychat" />
 </a>
 
