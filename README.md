@@ -13,7 +13,7 @@ I am a Frontend Developer and I love React and TypeScript.
 
 
 ### Contact me!
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkw722@gmail.com)](mailto:kkw722@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunwoo.dev@gmail.com)](mailto:gunwoo.dev@gmail.com) 
 [![Velog Badge](https://img.shields.io/badge/Tech_blog-3ac997?style=flat-square&logoColor=white&link=https://velog.io/@gunwooko)](https://velog.io/@gunwooko)
 
 <!--
