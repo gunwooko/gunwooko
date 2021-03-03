@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am Gunwoo 
 I am a Frontend Developer and I love React and TypeScript.
 
-### Languages and Tools
+### Skills
 - TypeScript / Javascript / React / Node.js / NestJS / Express.js / MySQL / SequelizeORM / Styled-Component / AWS(RDS / EC2 / S3) / Redux / Firebase / Chart.js
 - Git / Postman / Insomnia / Visual Studio Code / Notion / Slack / Zoom / Discord
 
