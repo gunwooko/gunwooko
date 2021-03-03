@@ -2,8 +2,8 @@
 I am a Frontend Developer and I love React and TypeScript.
 
 ### Languages and Tools
-- TypeScript / Javascript / React / Node.js / NestJS / Express / MySQL / Sequelize / Styled-Component / AWS(RDS / EC2 / S3) / Redux / Firebase / Chart.js
-- Git / Postman / Insomnia / Visual Studio Code / Notion / Slack / Zoom 
+- TypeScript / Javascript / React / Node.js / NestJS / Express.js / MySQL / SequelizeORM / Styled-Component / AWS(RDS / EC2 / S3) / Redux / Firebase / Chart.js
+- Git / Postman / Insomnia / Visual Studio Code / Notion / Slack / Zoom / Discord
 
 [![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
 
