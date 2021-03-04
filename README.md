@@ -1,4 +1,4 @@
-### 👋 Hi there, I am Gunwoo 
+### 👋 Hi there, I am [Gunwoo](http://bit.ly/3kIgiww) 
 I am a Frontend Developer and I love React and TypeScript.
 
 ### Skills
