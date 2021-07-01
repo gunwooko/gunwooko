@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Gunwoo :D
 
-[![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
+
 
 
 [![Velog Badge](https://img.shields.io/badge/Tech/TIL%20Blog-39AB78?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gunwooko)](https://bit.ly/2HNVfcn)
