@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Gunwoo :D
 
-
+[![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
 
 
 [![Velog Badge](https://img.shields.io/badge/Blog-39AB78?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gunwooko)](https://bit.ly/2HNVfcn)
@@ -16,7 +16,7 @@ I am a Frontend Developer and I love React and TypeScript.
 - TypeScript / Javascript / React / React-Native / Node.js / NestJS / Express.js / MySQL / SequelizeORM / Styled-Component / AWS(RDS / EC2 / S3) / Redux / Firebase / Chart.js
 - Git / Postman / Insomnia / Visual Studio Code / Notion / Slack / Zoom / Discord
 
-[![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
+
 
 ### Check out my recent project!
 - 깔깔스페인어 (Jaja-Spanish) is a platform that provides video/telephone Spanish classes to Korean-speakers.
