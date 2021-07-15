@@ -2,7 +2,6 @@
 
 [![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/gunwooko/)
 
-
 [![Velog Badge](https://img.shields.io/badge/Blog-39AB78?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gunwooko)](https://bit.ly/2HNVfcn)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunwoo.dev@gmail.com)](mailto:gunwoo.dev@gmail.com) 
 
