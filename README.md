@@ -1,5 +1,6 @@
 ### 👋 Hi there! I am Gunwoo :D 
 - 🌱 I’m currently learning NextJS, WebRTC and C
+- 🔭 I'm interested in React-query and storybook.
 
 [![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=dracula&hide_border=true&border_radius=30)](https://github.com/gunwooko/)
 
