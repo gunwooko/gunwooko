@@ -1,9 +1,4 @@
-### 👋 Hi there! I am Gunwoo :D 
-- 🌱 I’m currently learning NextJS, WebRTC and C
-- 🔭 I'm interested in React-query and storybook.
-
-[![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=dracula&hide_border=true&border_radius=30)](https://github.com/gunwooko/)
-
+👋 Hi there! I am Gunwoo :D 
 
 <!--
 **gunwooko/gunwooko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +14,7 @@ I am a Frontend Developer and I love React and TypeScript.
 - TypeScript / Javascript / React / React-Native / Node.js / NestJS / Express.js / MySQL / SequelizeORM / Styled-Component / AWS(RDS / EC2 / S3) / Redux / Firebase / Chart.js
 - Git / Postman / Insomnia / Visual Studio Code / Notion / Slack / Zoom / Discord
 
-
+[![Gunwoo's github stats](https://github-readme-stats.vercel.app/api?username=gunwooko&count_private=true&show_icons=true&theme=dracula&hide_border=true&border_radius=30)](https://github.com/gunwooko/)
 
 ### Check out my recent project!
 - 깔깔스페인어 (Jaja-Spanish) is a platform that provides video/telephone Spanish classes to Korean-speakers.
