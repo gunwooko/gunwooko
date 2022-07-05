@@ -1,4 +1,4 @@
-👋 Hi there! I am Gunwoo :D 
+👋 Hi there! 
 
 <!--
 **gunwooko/gunwooko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
